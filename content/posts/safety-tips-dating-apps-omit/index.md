@@ -49,7 +49,7 @@ Until then, another option is the secure messengers built into social media apps
 
 For now, Skype offers secure messaging (though you'll have to turn it on for each conversation) and allows you to identify yourself only by an email address.[^skype] You should create an email address exclusively for dating so that your email address does not reveal your identity. Alas, your matches may have long abandoned the likes of Skype and other messengers that don't identify you by phone number. (If your match is skeptical of trying something new, consider sharing this article with them.)
 
-[^anti-data-brokers]: To further protect yourself from being stalked by your phone number, you should also consider using a service like [Kanary](https://www.kanary.com/) to find out what information data brokers know about you and demand that they stop selling it.
+[^anti-data-brokers]: To further protect yourself from being stalked by your phone number, you should also consider using services like [Kanary](https://www.kanary.com/) and [Consumer Reports's Permission Slip](https://permissionslipcr.com/) to find out what information data brokers know about you and demand that they stop selling it.
 
 **3. It is *your* job to hide your profile in places you would not want it advertised.**
 
