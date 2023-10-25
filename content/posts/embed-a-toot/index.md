@@ -60,7 +60,7 @@ Please try out [Embed-a-Toot](https://uppajung.github.io/embed-a-toot/).
 
 Please submit issues, PRs, and new styles via [GitHub](https://github.com/UppaJung/embed-a-toot/).
 
-[^iframe-security]: The `iframe`` settings allow scripts to run in your hosting page's origin, to take over the full screen, and to allow popups. The embed sets the iframe's `allowfullscreen` attribute and the iframe sandbox attribute's `allow-scripts`, `allow-same-origin`, `allow-popups`, `allow-popups-to-escape-sandbox`, and `allow-forms` settings.
+[^iframe-security]: The `iframe` settings allow scripts to run in your hosting page's origin, to take over the full screen, and to allow popups. The embed sets the iframe's `allowfullscreen` attribute and the iframe sandbox attribute's `allow-scripts`, `allow-same-origin`, `allow-popups`, `allow-popups-to-escape-sandbox`, and `allow-forms` settings.
 
 [^big-tech]: If you embed social media content from big tech you will be running a script that allows the provider to track your users.
 
