@@ -1,5 +1,5 @@
 ---
-title: Embed-a-Toot
+title: Introducing Embed-a-Toot
 date: 2023-10-25
 lastmod: 2023-10-25
 ---
