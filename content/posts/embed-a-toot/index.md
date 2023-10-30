@@ -60,6 +60,8 @@ Please try out [Embed-a-Toot](https://uppajung.github.io/embed-a-toot/).
 
 Please submit issues, PRs, and new styles via [GitHub](https://github.com/UppaJung/embed-a-toot/).
 
+If you'd like Mastodon to support this style of content-inclusive embedding, please add support for the [GitHub Issue](https://github.com/mastodon/mastodon/issues/27626) requesting it. 
+
 <article class="fediverse-status" data-mastodon-host="mastodon.social" data-status="111296742716259258" data-created-by="https://github.com/UppaJung/embed-a-toot;v1.0.0;2023-10-25T18:40:41.829Z" data-update-counters data-update-content>
 	<header>
 		<a href="https://mastodon.social/@MildlyAggrievedScientist" rel="external nofollow" title="view profile at @MildlyAggrievedScientist@mastodon.social" class="authors-avatar-link">
