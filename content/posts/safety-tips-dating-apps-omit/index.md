@@ -1,7 +1,7 @@
 ---
 title: The Safety Tips Dating Apps Omit
 date: 2023-09-26
-lastmod: 2023-10-17
+lastmod: 2024-02-14
 ---
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-bottom: 1rem;">
@@ -41,13 +41,13 @@ You wouldn't need to do this if dating apps prioritized your safety and implemen
 
 Until dating apps offer secure messaging, your only option to prevent them from eavesdropping on your conversations is to take those conversations elsewhere. This is a delicate dance, because scammers and abusers will also encourage conversation partners to move off app so that dating apps can't observe them. So, you and your match will need to converse enough to convince each other that you are trustworthy without giving out information that you wouldn't want to become public. (Until you're reasonably confident the other party is trustworthy, you already have a good reason not to share sensitive information you wouldn't want to become public.)
 
-Further complicating the decision to trust your match to move off app is that doing so may make it easier for them to learn more about you than you are ready to share. Many secure messaging apps, including Signal and WhatsApp, currently require you to identify yourself to others using your phone number. You may not yet be ready for a match to be able to call you, text you, or to learn enough about you to stalk you. A web search on your phone number will likely lead stalkers to data brokers willing to sell them your full name, address, and other personal information.[^anti-data-brokers] Signal is working to support anonymous identifiers so that you can converse without sharing phone numbers, and once they do it will likely be the best option available.[^secure-messaging-options]
+Further complicating the decision to trust your match to move off app is that doing so may make it easier for them to learn more about you than you are ready to share. Many secure messaging apps, including Signal and WhatsApp, currently require you to identify yourself to others using your phone number. You may not yet be ready for a match to be able to call you, text you, or to learn enough about you to stalk you. A web search on your phone number will likely lead stalkers to data brokers willing to sell them your full name, address, and other personal information.[^anti-data-brokers] Signal is working to support pseudonymous usernames so that you can converse without sharing phone numbers, but this won't necessary solve stalking and harassment since you'll only get one username.[^secure-messaging-options]
 
 [^secure-messaging-options]: Proton, a provider of secure email accounts, offers a good [summary of the trade-offs of many secure messaging apps](https://proton.me/blog/whatsapp-alternatives) as of 2023.
 
-Until then, another option is the secure messengers built into social media apps (e.g. Facebook Messenger), which do not necessarily share your phone number, but require you to share your social media identity. For most users' social media accounts, this may be less safe than sharing a phone number.
+For now, one option for video chats is zoom. You can schedule a zoom meeting with a unique meeting ID and link that does not identify you. You will also need to update your profile so that your name does not appear next to your face unless you want it to. If you are not a paying zoom user, your conversation will be limited to 40 minutes. You may find this intended limitation to be a feature if your struggling to wrap up a conversation that isn't going anywhere. If you want another 40 minutes, you can send another link.
 
-For now, Skype offers secure messaging (though you'll have to turn it on for each conversation) and allows you to identify yourself only by an email address.[^skype] You should create an email address exclusively for dating so that your email address does not reveal your identity. Alas, your matches may have long abandoned the likes of Skype and other messengers that don't identify you by phone number. (If your match is skeptical of trying something new, consider sharing this article with them.)
+Skype offers secure messaging (though you'll have to turn it on for each conversation) and allows you to identify yourself only by an email address.[^skype] You should create an email address exclusively for dating so that your email address does not reveal your identity. Alas, your matches may have long abandoned the likes of Skype and other messengers that don't identify you by phone number. (If your match is skeptical of trying something new, consider sharing this article with them.)
 
 [^anti-data-brokers]: To further protect yourself from being stalked by your phone number, you should also consider using services like [Kanary](https://www.kanary.com/) and [Consumer Reports's Permission Slip](https://permissionslipcr.com/) to find out what information data brokers know about you and demand that they stop selling it.
 
