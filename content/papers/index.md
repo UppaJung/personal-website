@@ -125,11 +125,11 @@ The twenty-seventh annual SIGCHI conference on Human factors in computing system
 Boston, MA.  April 2009.
 
 Stuart E. Schechter, Rachna Dhamija, Andy Ozment, and Ian Fischer.
-[The Emporer's New Security Indicators: An evaluation of website authentication and the effect of role playing on usability studies](http://www.eecs.harvard.edu/~stuart/papers/emperor.pdf)
+[The Emporer's New Security Indicators: An evaluation of website authentication and the effect of role playing on usability studies](/papers/emperor.pdf)
 IEEE Symposium on Security and Privacy, Oakland, California.  May 20--23, 2007.
 
 Andy Ozment and Stuart E. Schechter.
-[Milk or Wine: Does Software Security Improve with Age?](http://www.eecs.harvard.edu/~stuart/papers/usenix06.pdf)
+[Milk or Wine: Does Software Security Improve with Age?](https://www.usenix.org/legacy/events/sec06/tech/full_papers/ozment/ozment.pdf)
 The 15th USENIX Security Symposium, Vancouver, BC. July 31--August 4, 2006.
 
 Andy Ozment and Stuart E. Schechter.
@@ -142,7 +142,7 @@ Andy Ozment, Stuart E. Schechter, and Rachna Dhamija.
 W3C Workshop on Transparency and Usability of Web Authentication, New York, NY. March 15--16, 2006.
 
 Stuart E. Schechter, Jaeyeon Jung, Will Stockwell, and Cynthia McLain.
-[Inoculating SSH Against Address-Harvesting](http://www.eecs.harvard.edu/~stuart/papers/ndss2006.pdf),
+[Inoculating SSH Against Address-Harvesting](/papers/ssh.pdf),
 The 13th Annual Network and Distributed System Security Symposium (NDSS'06), San Diego, CA. February 2006.
 
 Stuart E. Schechter.
@@ -150,33 +150,33 @@ Stuart E. Schechter.
 IEEE Security \& Privacy Magazine, pages 40--44, January-February 2005 (Vol. 3, No .1).
 
 Stuart E. Schechter, Jaeyeon Jung, and Arthur W. Berger.
-[Fast Detection of Scanning Worm Infections](http://www.eecs.harvard.edu/~stuart/papers/scanworm.pdf),
+[Fast Detection of Scanning Worm Infections](broken/papers/scanworm.pdf),
 The Seventh International Symposium on Recent Advances in Intrusion Detection (RAID 2004), Sophia Antipolis, French Riviera, France.  September~15--17, 2004.
 
 Stuart E. Schechter.
-[Toward Econometric Models of the Security Risk from Remote Attacks](http://www.eecs.harvard.edu/~stuart/papers/eis04.pdf),
+[Toward Econometric Models of the Security Risk from Remote Attacks](broken/papers/eis04.pdf),
 The Third Annual Workshop on Economics and Information Security,
 Minneapolis, Minnesota,
 May 2004.
 
 Stuart E. Schechter and Michael D. Smith.
-[Access for Sale: A New Class of Worm](http://www.eecs.harvard.edu/~stuart/papers/worm03.pdf),
+[Access for Sale: A New Class of Worm](broken/papers/worm03.pdf),
 The ACM CCS Workshop on Rapid Malcode (WORM 2003),
 Washington, DC, October 2003.
 
 Stuart E. Schechter, Rachel A. Greenstadt, and Michael D. Smith.
-[Trusted Computing, Peer-to-Peer Distribution, and the Economics of Pirated Entertainment](http://www.eecs.harvard.edu/~stuart/papers/eis03.pdf),
+[Trusted Computing, Peer-to-Peer Distribution, and the Economics of Pirated Entertainment](broken/papers/eis03.pdf),
 The Second Annual Workshop on Economics and Information Security, College Park, Maryland,
 May 2003.
 
 Stuart~E. Schechter and Michael~D. Smith.
-[How Much Security is Enough to Stop a Thief? The Economics of Outsider Theft via Computer Systems and Networks](http://www.eecs.harvard.edu/~stuart/papers/fc03.pdf),
+[How Much Security is Enough to Stop a Thief? The Economics of Outsider Theft via Computer Systems and Networks](broken/papers/fc03.pdf),
 In Rebecca~N. Wright, editor,
 Lecture Notes in Computer Science: Proceedings of the Seventh Financial Cryptography Conference,
 volume 2742, pages 122--137. Springer-Verlag, Gosier, Guadeloupe, January~27--30, 2003.
 
 Stuart E. Schechter.
-[How to Buy Better Testing: Using Competition to Get the Most Security and Robustness for Your Dollar](http://www.eecs.harvard.edu/~stuart/papers/isc2002.pdf),
+[How to Buy Better Testing: Using Competition to Get the Most Security and Robustness for Your Dollar](broken/papers/isc2002.pdf),
 In Owen~Rees, George~Davida, and Yair~Frankel, editors,
 Lecture Notes in Computer Science: Proceedings of the Infrastructure Security International Conference (InfraSec 2002),
 volume 2437, pages 73--87. Springer-Verlag, Bristol, UK, October~1--3, 2002.
@@ -187,12 +187,15 @@ The First Annual Workshop on Economics and Information Security,
 Berkeley, California, May 2002.
 
 Stuart E. Schechter, Todd Parnell, and Alexander Hartemink.
-[Anonymous Authentication of Membership in Dynamic Groups](http://www.eecs.harvard.edu/~stuart/papers/fc99lncs.ps),
+[Anonymous Authentication of Membership in Dynamic Groups](broken/papers/fc99lncs.ps),
 In Matt Franklin, editor,
 Lecture Notes in Computer Science: The Third International Conference on Financial Cryptography,
 volume 1648, Springer-Verlag, Anguilla, BWI, January 1999.
 
 Stuart E. Schechter, Murali Krishnan, and Michael D. Smith.
-[Using Path Profiles to Predict HTTP Requests](http://www.eecs.harvard.edu/~stuart/www7/380.html),
+[Using Path Profiles to Predict HTTP Requests](/papers/www98.pdf),
 Proceedings of the Seventh World Wide Web Conference (WWW7),
 Brisbane, Australia, April 1998.
+
+Stuart Schechter
+[Computer Security Strength & Risk: A Quantitative Approach](/papers/schechter-thesis.pdf), Harvard University Doctoral Thesis, 2004.
