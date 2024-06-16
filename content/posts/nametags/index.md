@@ -68,7 +68,7 @@ If you are organizing an event, please help us all be less bad at pronouns. You 
 
 ---
 
-I am grateful for help and [author-assistive reviews](https://www.stuartschechter.org/posts/scoreless-peer-review/) from (in chronological review order):
+I am grateful for help and [author-assistive reviews](/posts/scoreless-peer-review/) from (in chronological review order):
 
 - [Haiting Chan](https://www.linkedin.com/in/haitingchan/), for helping me be a better ally and for providing great early feedback,
 - [Amy J. Ko](https://amyjko.phd/) ([@amyjko@hci.social](https://hci.social/@amyjko)) for her past writings and suggestions on this article's positioning, and
@@ -85,7 +85,7 @@ I am grateful for help and [author-assistive reviews](https://www.stuartschechte
 
 [^edit-out-only]: Those who prefer not to have their pronouns followed by **only** can edit it out manually.
 
-[^no-only-for-they]: [Author-assistive](https://www.stuartschechter.org/posts/scoreless-peer-review/) reviewer [Jan Dittrich](https://fordes.de/) ([@simulo@hci.social](https://hci.social/@simulo)) suggested that some attendees who prefer *they* pronouns may feel left out because the radio buttons do not give them an option to add the boldface **only**. (They can still do so manually by editing their name tag.) There is a trade-off here. Indeed, some who prefer using *they* pronouns may feel excluded by the lack of a radio option to add **only** following *they* pronouns. However, attendees are more likely to adopt the new norms and address others with *they* pronouns if there are fewer exceptions to remember, and their sense of the number of exceptions they'll need to remember will be influenced by the prevalence of **only** on name tags.
+[^no-only-for-they]: [Author-assistive](/posts/scoreless-peer-review/) reviewer [Jan Dittrich](https://fordes.de/) ([@simulo@hci.social](https://hci.social/@simulo)) suggested that some attendees who prefer *they* pronouns may feel left out because the radio buttons do not give them an option to add the boldface **only**. (They can still do so manually by editing their name tag.) There is a trade-off here. Indeed, some who prefer using *they* pronouns may feel excluded by the lack of a radio option to add **only** following *they* pronouns. However, attendees are more likely to adopt the new norms and address others with *they* pronouns if there are fewer exceptions to remember, and their sense of the number of exceptions they'll need to remember will be influenced by the prevalence of **only** on name tags.
 
 [^name-tag-abuse]: As I work in security I am sure to have 'clever' people point out that, yes, attendees could abuse the freedom to edit the entirety of the text on their name tag to include inappropriate content or to impersonate others. Fortunately, most people will stick with the defaults and the rest can be reviewed for abuse by event staff. Reviewing the exceptions is work, but likely worthwhile work, as it can alert organizers to attendees with unanticipated needs.
 

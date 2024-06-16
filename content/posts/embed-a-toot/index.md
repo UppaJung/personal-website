@@ -77,7 +77,7 @@ Please submit issues, PRs, and new styles via [GitHub](https://github.com/UppaJu
 				</a>
 		</div>
 	</header>
-	<main><p>Mastodon's iframe-based approach for embedding posts ("toots") on other websites is inefficient, inflexible, and insecure. Fortunately, the Mastodon API lets us build better options.</p><p><a translate="no" rel="nofollow noopener noreferrer" href="https://www.stuartschechter.org/posts/embed-a-toot/"><span class="invisible">https://www.</span><span class="ellipsis">stuartschechter.org/posts/embe</span><span class="invisible">d-a-toot/</span></a></p></main>
+	<main><p>Mastodon's iframe-based approach for embedding posts ("toots") on other websites is inefficient, inflexible, and insecure. Fortunately, the Mastodon API lets us build better options.</p><p><a translate="no" rel="nofollow noopener noreferrer" href="/posts/embed-a-toot/"><span class="invisible">https://</span><span class="ellipsis">stuartschechter.org</span><span class="invisible">/posts/embed-a-toot/</span></a></p></main>
 	<footer>
 		<time datetime="2023-10-25T17:05:20.453Z" class="post-time">Oct 25, 2023, 1:05 PM</time>
 		<time hidden datetime="" class="edit-time">edited at </time>
