@@ -1,0 +1,44 @@
+---
+title: How some of the world's most brilliant computer scientists got password policies so wrong
+date: 2024-11-11
+lastmod: 2024-11-11
+---
+
+The US government's [latest recommendations](https://pages.nist.gov/800-63-4/sp800-63b.html#appA) acknowledge that password composition and reset rules are not just annoying, but counterproductive.
+
+The story of why password rules were recommended and enforced without scientific evidence since their invention in 1979 is a story of brilliant people, at the very top of their field, whose well-intentioned recommendations led to decades of ignorance. These mistakes are worth studying, in part, because the people making them were so damn brilliant and the consequences were so long lasting.
+
+The scientists in this case were [Robert Morris](https://en.wikipedia.org/wiki/Robert_Morris_(cryptographer)) and [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson). Thompson is credited as being a co-inventor of Unix and Morris is credited as a contributor. Morris left Bell Labs in 1986 to go onto a much-less visible career at the National Security Agency. Thompson created the predecessor to the C language, won Computer Science's highest prize – the Turing Award – in 1983, and later went to Google where he co-invented the Go Language.[^bias]
+
+Forty-five years ago this month (November, 1979), Morris and Thompson published the definitive paper on passwords: [Password Security: A Case History](https://dl.acm.org/doi/pdf/10.1145/359168.359172). In their paper, they reported on a natural experiment in which they examined 3,289 real-world[^password-source] user passwords. They discovered that 2,339 (71\%) were either six or fewer characters of the same type (lower-case, upper-case, or digits) or 3 characters of mixed types. They found an additional 492 of the remainder (15\% of all the passwords) were available in "dictionaries, name lists, and the like."
+
+Morris and Thompson's work brought much-needed data to highlight a problem that lots of people suspected was bad, but that had not been studied scientifically. Their work was a big step forward, if not for two mistakes that would impede future progress in improving passwords for *decades*.
+
+First, was Morris and Thompson's confidence that their solution, a password policy, would fix the underlying problem of weak passwords. They incorrectly assumed that if they prevented the specific categories of weakness that they had noted, that the result would be something strong. After implementing a requirement that password have multiple characters sets or more total characters, they wrote:
+
+> These improvements make it exceedingly difficult to  find any individual password. The user is warned of the  risks and if he cooperates, he is very safe indeed.
+
+As should be obvious now, a user who chooses 'p@ssword' to comply with policies such as those proposed by Morris and Thompson is not *very safe indeed*. Morris and Thompson assumed their intervention would be effective without testing its efficacy, considering its unintended consequences, or even defining a metric of success to test against. Not only did their hunch turn out to be wrong, but their second mistake prevented anyone from proving them wrong.
+
+That mistake was their recommendations on how passwords should be stored. They recommended that systems should not store passwords, but instead assign each user a random "hash" function used to compute a number (the *hash*) from that users' password. When a typed a new password, the system would compute a numeric hash by feeding the password to the user's hash function, storing the numeric hash in place of the password. When the user typed their password to login, the system would again compute the user's numeric hash by applying the hash function to the password they had typed, testing to see if this numeric hash matched the numeric hash that had been stored when the user chose the password. If the hashes matched, the password must match.
+
+These hash functions are "one-way": they cannot be computed in reverse to turn the numeric hash back into the password. If someone steals the list of users and each user's numeric hash, the only way to discover that user's correct passwords would be to repeatedly guess password after password, computing the user's hash function, to find one that produces a numeric hash that matches the correct one. As users' passwords become harder to guess the time and cost to guess them goes up.
+
+Storing numeric hashes instead of the passwords can protect users whose passwords are hard to guess, but it also prevents scientists from examining those passwords to determine if there might be categories of common (weak) passwords that users should be discouraged from choosing. While they did not invent password hashing [^password-hashing-invention] Morris and Thompson implemented it into Unix, strongly recommended it, and their paper would be the one most cited to support the necessity of password hashing.
+
+Alas, Morris and Thompson did not appear to consider that password hashing would prevent anyone from validating their assumption that their policies would make users *very secure indeed*. In a world before personal computing, they may also not have imagined that billions of people would be subjected to password policies that were no better than witchcraft because password hashing would prevent anyone from testing those policies.
+
+It didn't need to be that way. Twenty months before Morris and Thompson's paper appeared, **R**on Rivest, Adi **S**hamir and Leonard **A**dleman published [A method for obtaining digital signatures and public-key cryptosystems](https://dl.acm.org/doi/10.1145/359340.359342), describing the *RSA* public-key cryptosystem that would secure web communications and make possible the E-Commerce revolution of the late 1990s. A public-key cryptosystem is a function that is one-way if you only have a public key, but that can be reversed if you have the private key. With RSA, passwords could be hashed with a function that was one-way without the private key, and the private key stored on a system detached from any network and safely behind locks, guards, and whatever other physical security measures one might dream of. When scientists needed to test if password policies were working, they could take the file with the numeric hashes into the locked room with the key, analyze them, and leave with a new set of rules to try. Alas, to my knowledge, nobody has ever used this approach.[^microsoft]
+
+Thanks to Morris and Thompson's recommendations, and those who believed their assumptions without evidence, it was not until well into the 21st century that we learned how ineffective password policies were. This period of ignorance finally came to an end, in part, because hackers started stealing password databases from large websites and publishing them. Some of those websites were built by companies that prioritized growth over taking the time to follow recommended security practices; they had stored their passwords without hashing them. As these databases became public scientists could finally study millions of passwords chosen under real-world conditions.
+
+
+
+[^bias]: Disclosure of potential bias: In 1998 I interned with the research group at Bell Labs in which Ken Thompson worked. I failed to do anything helpful for Ken, but he kindly gave me a flying lesson anyway. I suspect I was his worst student. Ken told me the pedals were for steering and braking, moving the rudder as you pressed lightly and braking as you pushed down harder. I failed to connect that this meant that, to steer on the ground, one needed to press down hard on the side you wanted to turn, so as to stop the wheel on that side and cause the plane to pivot around it. I nearly clipped the wing of a parked plane while taxiing back from the flight.
+
+[^password-source]: They do not mention the origin of the passwords analyzed, but it's commonly assumed that the passwords were from Bell Labs.
+
+[^password-hashing-invention]: The 1974 work was not available online until the ACM modernized digitized their archives in recent years. As a result, the research literature commonly credits Morris and Thompson's work as the invention of password hashing. You can now find the 1974 work as:<br/> Arthur Evans Jr., William Kantrowitz, and Edwin Weiss. [A user authentication scheme not requiring secrecy in the computer.](https://dl.acm.org/doi/pdf/10.1145/361082.361087) Communications of the ACM, 17(8):437–442, 1974.
+.
+
+[^microsoft]: I proposed that passwords should be stored to allow for analysis in 2013, while working at Microsoft, and colleagues begged me not to publish because the taboo against any storing passwords in way other than one-way salted hashes had become so culturally ingrained in our field. "Sure, it's good for society, but can't we let someone else propose it?"
