@@ -32,6 +32,8 @@ It didn't need to be that way. Twenty months before Morris and Thompson's paper 
 
 As a result of Morris and Thompson's recommendations, and those who believed their assumptions without evidence, it was not until well into the 21st century that the scientific community learned just how ineffective password policies were. This period of ignorance finally came to an end, in part, because hackers started stealing password databases from large websites and publishing them. Some of those websites were built by companies that prioritized growth over taking the time to follow recommended security practices; they had stored their passwords without hashing them. As these databases became public scientists could finally study millions of passwords chosen under real-world conditions.
 
+---
+
 {{< subscribe_snarky >}}
 
 [^bias]: Disclosure of potential bias: In 1998 I interned with the research group at Bell Labs in which Ken Thompson worked. I failed to do anything helpful for Ken, but he kindly gave me a flying lesson anyway. I suspect I was his worst student. Ken told me the pedals were for steering and braking, moving the rudder as you pressed lightly and braking as you pushed down harder. I failed to connect that this meant that, to steer on the ground, one needed to press down hard on the side you wanted to turn, so as to stop the wheel on that side and cause the plane to pivot around it. I nearly clipped the wing of a parked plane while taxiing back from the flight.
