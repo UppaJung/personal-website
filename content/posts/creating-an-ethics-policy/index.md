@@ -12,7 +12,7 @@ Conference and journals have a unique opportunity to influence research ethics, 
 
 In this article I’ll examine these goals more closely, explain the decisions that you’ll have to make when writing policies to meet these goals, and provide recommendations.
 
-I’ll conclude with sample policy language which you are free to use when constructing a policy for your conference or journal. You need not provide attribution, but I would greatly appreciate an [email](mailto:stuart@post.harvard.edu) if you create a policy that benefited from this article.
+I’ll conclude with sample policy language which you are free to use when constructing a policy for your conference or journal. You need not provide attribution, but I would greatly appreciate an [email](mailto:blog@stuartschechter.org) if you create a policy that benefited from this article.
 
 Educating Authors
 -----------------
