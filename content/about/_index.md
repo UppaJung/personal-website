@@ -10,7 +10,7 @@ layout: single
 <!-- {{< figure src="StuartsSelfieOn20230804.webp" caption="Yikes" alt="A picture of Stuart" width="min(30vw,20vh)" >}} -->
 
 
-I'm a scientist who criticizes the how scientists conduct ourselves, a security technologist who debunks security technologies, and a human-subjects researcher who isn't the best people person. This doesn't make me very popular… 
+I'm a scientist who criticizes how scientists conduct ourselves, a security technologist who debunks security technologies, and a human-subjects researcher who isn't the best people person. This doesn't make me very popular… 
 
 …at least until people learn that my research debunking common security practices is part of the reason why they no longer have to answer so many 'security' questions,[^jesus] why their employer no longer asks them to reset their password every 90 days, and why many websites no longer care if your password has digits, punctuation, or uppercase letters.
 
