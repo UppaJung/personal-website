@@ -116,8 +116,7 @@ The 2009 IEEE Symposium on Security and Privacy,
 Berkeley, CA.  May 2009.
 
 Stuart Schechter, Serge Egelman, and Robert W. Reeder.
-[It's Not What You Know, But Who You Know: A social approach to last-resort authentication]
-(https://research.microsoft.com/pubs/79349/paper1459-schechter.pdf),
+[It's Not What You Know, But Who You Know: A social approach to last-resort authentication](https://research.microsoft.com/pubs/79349/paper1459-schechter.pdf),
 The twenty-seventh annual SIGCHI conference on Human factors in computing systems,
 Boston, MA.  April 2009.
 
@@ -178,7 +177,7 @@ Lecture Notes in Computer Science: Proceedings of the Seventh Financial Cryptogr
 volume 2742, pages 122--137. Springer-Verlag, Gosier, Guadeloupe, January~27--30, 2003.
 
 Stuart E. Schechter.
-[How to Buy Better Testing: Using Competition to Get the Most Security and Robustness for Your Dollar](papers/isc2002.pdf),
+[How to Buy Better Testing: Using Competition to Get the Most Security and Robustness for Your Dollar](/papers/isc2002.pdf),
 In Owen~Rees, George~Davida, and Yair~Frankel, editors,
 Lecture Notes in Computer Science: Proceedings of the Infrastructure Security International Conference (InfraSec 2002),
 volume 2437, pages 73--87. Springer-Verlag, Bristol, UK, October~1--3, 2002.
