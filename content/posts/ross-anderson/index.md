@@ -1,7 +1,7 @@
 ---
 title: Difficult Truths for our Harsh Times - Have security & privacy research, and the students we, have trained, actually made the world a better place?
-date: 2025-0-25
-lastmod: 2025-0-25
+date: 2025-03-25
+lastmod: 2025-03-25
 ---
 
 Not everyone will miss Ross Anderson.
