@@ -1,5 +1,5 @@
 ---
-title: Difficult Truths for our Harsh Times - Have security & privacy research, and the students we, have trained, actually made the world a better place?
+title: Difficult Truths for our Harsh Times — Have security & privacy research, and the students we have trained, actually made the world a better place?
 date: 2025-03-24
 lastmod: 2025-03-24
 ---
