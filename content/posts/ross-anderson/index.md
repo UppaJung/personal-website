@@ -65,9 +65,9 @@ Security technologists at Apple and Google told users that their loss of autonom
 >
 > …
 >
-> There are many changes Microsoft needs to make as a company to ensure and keep our customers’ *trust} at every level – from the way *we* develop software, to *our* support efforts, to *our* operational and business practices.[^Microsoft]
+> There are many changes Microsoft needs to make as a company to ensure and keep our customers’ *trust* at every level – from the way *we* develop software, to *our* support efforts, to *our* operational and business practices.[^Microsoft]
 
-[^Microsoft]: Emphasis in quote added to highlight that when *Microsoft&apos;s} founder and then-CEO used the word &lsquo;trust&rsquo;, he used it to hold *Microsoft} accountable to its users. The original January 15, 2002 memo is reproduced available via a [10-year retrospective from Microsoft](https://news.microsoft.com/2012/01/11/memo-from-bill-gates/) and a [Wired article from January 17, 2002](https://www.wired.com/2002/01/bill-gates-trustworthy-computing/).
+[^Microsoft]: Emphasis in quote added to highlight that when *Microsoft&apos;s* founder and then-CEO used the word &lsquo;trust&rsquo;, he used it to hold *Microsoft* accountable to its users. The original January 15, 2002 memo is reproduced available via a [10-year retrospective from Microsoft](https://news.microsoft.com/2012/01/11/memo-from-bill-gates/) and a [Wired article from January 17, 2002](https://www.wired.com/2002/01/bill-gates-trustworthy-computing/).
 
 Regardless of what you think of Gates, Microsoft&apos;s history[^disclosure], or the extent to which Gates and Microsoft were able to deliver on those principles, Gates was willing to state without ambiguity that &lsquo;trust&rsquo; meant being accountable to customers about the quality and safety of its products.
 
