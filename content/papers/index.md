@@ -37,7 +37,7 @@ Joseph Bonneau and Stuart Schechter, [Towards reliable storage of 56-bit secrets
 
 Saranga Komanduri, Rich Shay, Lorrie Cranor, Cormac Herley, and Stuart Schechter, [Telepathwords: preventing weak passwords by reading users' minds](https://research.microsoft.com/apps/pubs/default.aspx?id=220380) in Proceedings of the 23rd USENIX Security Symposium, USENIX, 20 August 2014
 
-Stuart Schechter and Cristian Bravo-Lillo, [Using Ethical-Response Surveys to Identify Sources of Disapproval and Concern with Facebook’s Emotional Contagion Experiment and Other Controversial Studies](/papers/Ethical-Response20Survey202014-07-15.pdf), 10 July 2024
+Stuart Schechter and Cristian Bravo-Lillo, [Using Ethical-Response Surveys to Identify Sources of Disapproval and Concern with Facebook’s Emotional Contagion Experiment and Other Controversial Studies](/papers/UsingEthicalResponseSurveys2014.pdf), 30 October 2024
 
 Cristian Bravo-Lillo, Lorrie Cranor, Saranga Komanduri, Stuart Schechter, and Manya Sleeper, [Harder to Ignore? Revisiting Pop-Up Fatigue and Approaches to Prevent It](https://research.microsoft.com/apps/pubs/default.aspx?id=220380) in Symposium On Usable Privacy and Security, USENIX, 9 July 2014
 
